@@ -1,0 +1,14 @@
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\bin\Debug\SaveTheCoffeeBeans.exe.config
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\bin\Debug\SaveTheCoffeeBeans.exe
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\bin\Debug\SaveTheCoffeeBeans.pdb
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.csprojAssemblyReference.cache
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.MainMenu.resources
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.Play.resources
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.Properties.Resources.resources
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.csproj.GenerateResource.cache
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.exe
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.pdb
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.Help.resources
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.MediumLevel.resources
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.SelectLevel.resources
+C:\Users\Lina Khaled\Engineering45\Week4\SaveTheCoffeeBeans\obj\Debug\SaveTheCoffeeBeans.HardLevel.resources
